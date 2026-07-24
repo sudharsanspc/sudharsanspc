@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sudharsanspc&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
 
 </div>
-### 🌟 Quick Facts
+# 🌟 Quick Facts
 
 🎓 Computer Science Engineering Student
 
