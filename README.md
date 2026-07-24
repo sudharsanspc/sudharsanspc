@@ -5,8 +5,6 @@
 # 👋 Hello World! I'm Sudharsan PooranaChandiran S R
 
 ### 💻 Full Stack Developer • 🤖 AI Enthusiast • 🚀 Tech Explorer
-![Profile Views](https://komarev.com/ghpvc/?username=sudharsanspc&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
-font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Reality+🚀;Building+AI+Solutions+🌍;Full+Stack+Developer;Always+Learning+New+Technologies;Coffee+☕+Code+💻+Repeat+♾️"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sudharsanspc&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
 
