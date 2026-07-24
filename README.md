@@ -71,3 +71,54 @@ const me=new Developer();
 🚀 Love Learning New Technologies
 
 ☕ Coffee + Code = Happiness
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🌟 Project | 📝 Description | 🛠️ Tech Stack | 🎯 Goal |
+|:----------:|:--------------|:-------------:|:--------:|
+| 🌱 **FoodBridge AI** | AI-powered food donation platform connecting donors, NGOs & volunteers | React • Node.js • Express • MySQL • AI | SDG 2 - Zero Hunger 🍽️ |
+| 🎓 **Student Achievement Tracker (SATS)** | Digital portfolio system with mentor dashboard & certificate verification | MERN Stack • JWT • MySQL | Smart Student Management 📚 |
+| ♻️ **EcoCycle AI** | AI-powered E-Waste Collection & Recycling Platform | React • AI • Node.js | Sustainable Environment 🌍 |
+| 🚌 **Smart College Bus Tracker** | Live GPS & IoT based bus tracking with real-time location | IoT • GPS • Arduino • Firebase | Smart Transportation 🚍 |
+
+</div>
+
+---
+
+# 🌍 My Mission
+
+> **"I believe technology should solve real-world problems, not just exist as code."**
+
+I enjoy building applications that create a positive social impact by combining **Artificial Intelligence**, **Full Stack Development**, and **IoT**. Every project I work on is designed to improve people's lives, whether through reducing food waste, helping students, promoting sustainability, or enabling smart transportation.
+
+---
+
+# 🚧 Currently Building
+
+```text
+🌱 FoodBridge AI           ██████████░░░ 90%
+
+🎓 SATS                    █████████░░░░ 85%
+
+♻️ EcoCycle AI             ████████░░░░░ 75%
+
+🚌 Smart Bus Tracker       ███████░░░░░░ 70%
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build impactful Full Stack Projects
+- 🤖 Learn Artificial Intelligence & Machine Learning
+- ☁️ Master Cloud Computing
+- 🌍 Contribute to Open Source Projects
+- 💼 Secure a Software Development Internship
+- 🚀 Deploy Production-Ready Applications
+- 📚 Strengthen Data Structures & Algorithms
+- 🏆 Become a Better Problem Solver
+
+---
