@@ -7,35 +7,37 @@
 ### 💻 Full Stack Developer • 🤖 AI Enthusiast • 🚀 Tech Explorer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Reality+🚀;Building+AI+Solutions+🌍;Full+Stack+Developer;Always+Learning+New+Technologies;Coffee+☕+Code+💻+Repeat+♾️"/>
-
-<img src="https://komarev.com/ghpvc/?username=sudharsanspc&style=for-the-badge&color=blueviolet"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudharsanspc&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+</p>
 </div>
+
+``javascript
 const sudharsan = {
-    name: "Sudharsan Pooranachandiran S R",
-    role: "Computer Science Engineering Student",
-    location: "Tamil Nadu, India 🇮🇳",
+  name: "Sudharsan Pooranachandiran S R",
+  role: "Computer Science Engineering Student",
 
-    code: ["Java", "JavaScript", "Python", "PHP", "C", "C++"],
+  code: ["Java", "JavaScript", "Python", "PHP", "C", "C++"],
 
-    technologies: {
-        frontend: ["HTML", "CSS", "React", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MySQL", "MongoDB", "Firebase"],
-        ai: ["Machine Learning", "Artificial Intelligence"],
-        iot: ["Arduino", "ESP32", "GPS"]
-    },
+  technologies: {
+    frontend: ["HTML", "CSS", "React", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MySQL", "MongoDB", "Firebase"],
+    ai: ["Machine Learning", "Artificial Intelligence"],
+    iot: ["Arduino", "ESP32", "GPS"]
+  },
 
-    currentFocus: [
-        "Full Stack Development",
-        "AI Projects",
-        "Open Source"
-    ],
+  currentFocus: [
+    "Full Stack Development",
+    "AI Projects",
+    "Open Source"
+  ],
 
-    motto: "Code • Learn • Build • Repeat 🚀"
+  motto: "Code • Learn • Build • Repeat 🚀"
 };
 
 console.log("Welcome to my GitHub Profile 👋");
+``
 
 ### 🌟 Quick Facts
 
