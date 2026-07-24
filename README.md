@@ -36,7 +36,7 @@ const sudharsan = {
 };
 
 console.log("Welcome to my GitHub Profile 👋");
-```
+``
 
 ### 🌟 Quick Facts
 
