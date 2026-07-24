@@ -11,10 +11,9 @@
 <img src="https://komarev.com/ghpvc/?username=sudharsanspc&style=for-the-badge&color=blueviolet"/>
 
 </div>
-
 # 👨‍💻 About Me
 
-javascript
+```javascript
 const sudharsan = {
     name: "Sudharsan Pooranachandiran S R",
     role: "Computer Science Engineering Student",
@@ -47,6 +46,7 @@ const sudharsan = {
 };
 
 console.log("Welcome to my GitHub Profile 👋");
+```
 
 ### 🌟 Quick Facts
 
