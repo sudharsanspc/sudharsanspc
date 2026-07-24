@@ -247,3 +247,191 @@ while(success != true)
 
 
 ---
+---
+
+# 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudharsanspc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanspc&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sudharsanspc&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudharsanspc&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sudharsanspc&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudharsanspc&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+| 🚀 Metric | 📊 Status |
+|:---------:|:---------:|
+| 💻 Full Stack Development | ⭐⭐⭐⭐⭐ |
+| 🤖 Artificial Intelligence | ⭐⭐⭐⭐☆ |
+| 🌐 Web Development | ⭐⭐⭐⭐⭐ |
+| 🗄️ Database Design | ⭐⭐⭐⭐☆ |
+| 📱 Responsive UI | ⭐⭐⭐⭐⭐ |
+| 🔧 Problem Solving | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# 💡 Daily Motivation
+
+> **"Consistency beats talent when talent doesn't stay consistent."** 🚀
+
+---
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudharsanspc/sudharsanspc/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sudharsanspc">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sudharsan-pooranachandiran-aab321381">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sudharsanpooranachandiran@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+✅ Master MERN Stack
+████████████████████ 100%
+
+🤖 Learn AI & Machine Learning
+██████████████░░░░░░ 70%
+
+☁️ Cloud Computing
+██████████░░░░░░░░░░ 50%
+
+🚀 Build Production Projects
+██████████████████░░ 90%
+
+🌍 Open Source Contributions
+████████░░░░░░░░░░░░ 40%
+
+💼 Software Developer Internship
+███████████████░░░░░ 80%
+```
+
+---
+
+# 💻 Developer Philosophy
+
+```python
+class Life:
+
+    def __init__(self):
+        self.success = False
+
+    def grow(self):
+        while not self.success:
+            self.learn()
+            self.build()
+            self.fail()
+            self.improve()
+
+    def learn(self): pass
+    def build(self): pass
+    def fail(self): pass
+    def improve(self): pass
+```
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sudharsanspc&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💖 Thanks for Visiting
+
+<div align="center">
+
+## ⭐ If you like my projects, consider giving them a Star!
+
+### 🚀 Let's Build Something Amazing Together!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=120&section=footer"/>
+
+</div>
+
+---
