@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sudharsanspc&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
 
 </div>
-
+```javascript
 const sudharsan = {
   name: "Sudharsan Pooranachandiran S R",
   role: "Computer Science Engineering Student",
@@ -36,6 +36,7 @@ const sudharsan = {
 };
 
 console.log("Welcome to my GitHub Profile 👋");
+```
 
 ### 🌟 Quick Facts
 
