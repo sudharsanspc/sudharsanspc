@@ -13,12 +13,12 @@
 </div>
 # 👨‍💻 About Me
 
-```javascript
+javascript
 const sudharsan = {
     name: "Sudharsan Pooranachandiran S R",
     role: "Computer Science Engineering Student",
     location: "Tamil Nadu, India 🇮🇳",
-
+    
     code: [
         "Java",
         "JavaScript",
