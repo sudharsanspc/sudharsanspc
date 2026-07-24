@@ -53,7 +53,7 @@
 **AI Powered Food Donation Platform**
 Connecting surplus food with people in need using intelligent matching and routing.
 
-`AI` `Full Stack` `Social Impact`
+AI  Full Stack  Social Impact
 
 </td>
 <td width="50%">
@@ -62,7 +62,7 @@ Connecting surplus food with people in need using intelligent matching and routi
 **Student Portfolio & Certificate Verification System**
 A centralized platform to showcase and verify student achievements digitally.
 
-`Full Stack` `Verification` `Portfolio`
+Full Stack  Verification  Portfolio
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ A centralized platform to showcase and verify student achievements digitally.
 **GPS & IoT Based College Bus Tracking**
 Real-time bus tracking system built with GPS modules and live location updates.
 
-IoT  GPS  Real-Time
+IoT   GPS   Real-Time
 
 </td>
 <td width="50%">
@@ -82,7 +82,7 @@ IoT  GPS  Real-Time
 **AI Powered E-Waste Recycling Platform**
 Using AI to classify, track, and streamline responsible e-waste recycling.
 
-AI  Sustainability  Full Stack
+AI   Sustainability  Full Stack
 
 </td>
 </tr>
@@ -94,12 +94,17 @@ AI  Sustainability  Full Stack
 
 ## 🎯 Current Focus
 
-🔭 Full Stack Development   ████████████████████░░  85%
-🤖 Artificial Intelligence  ████████████████░░░░░░  70%
-🧠 Machine Learning         ███████████████░░░░░░░  65%
-☁️  Cloud Computing         ████████████░░░░░░░░░░  55%
-🌱 Open Source              ██████████████░░░░░░░░  60%
+<div align="center">
 
+| Area | Progress |
+|:---|:---|
+| 🔭 Full Stack Development | ![85%](https://progress-bar.xyz/85/?width=200&color=00c6ff&title=85%25) |
+| 🤖 Artificial Intelligence | ![70%](https://progress-bar.xyz/70/?width=200&color=00c6ff&title=70%25) |
+| 🧠 Machine Learning | ![65%](https://progress-bar.xyz/65/?width=200&color=00c6ff&title=65%25) |
+| ☁️ Cloud Computing | ![55%](https://progress-bar.xyz/55/?width=200&color=00c6ff&title=55%25) |
+| 🌱 Open Source | ![60%](https://progress-bar.xyz/60/?width=200&color=00c6ff&title=60%25) |
+
+</div>
 
 ### 🌟 Mission
 
@@ -186,8 +191,12 @@ AI  Sustainability  Full Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudharsanspc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanspc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="48%" valign="middle" src="https://github-readme-stats.vercel.app/api?username=sudharsanspc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="35%" valign="middle" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanspc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
