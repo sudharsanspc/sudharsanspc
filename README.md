@@ -14,49 +14,39 @@
 
 # 👨‍💻 About Me
 
-class Developer {
+javascript
+const sudharsan = {
+    name: "Sudharsan Pooranachandiran S R",
+    role: "Computer Science Engineering Student",
+    location: "Tamil Nadu, India 🇮🇳",
 
-constructor(){
+    code: [
+        "Java",
+        "JavaScript",
+        "Python",
+        "PHP",
+        "C",
+        "C++"
+    ],
 
-this.name="Sudharsan Pooranachandiran";
+    technologies: {
+        frontend: ["HTML", "CSS", "React", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MySQL", "MongoDB", "Firebase"],
+        ai: ["Machine Learning", "Artificial Intelligence"],
+        iot: ["Arduino", "ESP32", "GPS"]
+    },
 
-this.role="Computer Science Engineering Student";
+    currentFocus: [
+        "Full Stack Development",
+        "AI Projects",
+        "Open Source"
+    ],
 
-this.location="Tamil Nadu 🇮🇳";
+    motto: "Code • Learn • Build • Repeat 🚀"
+};
 
-this.languages=[
-"Java",
-"JavaScript",
-"Python",
-"PHP",
-"C",
-"C++"
-];
-
-this.currentlyLearning=[
-"MERN Stack",
-"Artificial Intelligence",
-"Machine Learning",
-"Cloud Computing",
-"System Design"
-];
-
-this.interests=[
-"Web Development",
-"Open Source",
-"IoT",
-"AI Applications",
-"Problem Solving"
-];
-
-this.goal="Building Technology That Solves Real World Problems.";
-
-}
-
-}
-
-const me=new Developer();
-
+console.log("Welcome to my GitHub Profile 👋");
 
 ### 🌟 Quick Facts
 
