@@ -122,3 +122,128 @@ I enjoy building applications that create a positive social impact by combining 
 - 🏆 Become a Better Problem Solver
 
 ---
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+---
+
+## 🤖 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js"/>
+</p>
+
+---
+
+## 🧠 AI • IoT • Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,firebase,arduino"/>
+</p>
+
+---
+
+## 🛠️ Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,xd"/>
+</p>
+
+</div>
+
+---
+
+# ⚡ Development Workflow
+
+
+💡 Idea
+
+      │
+      ▼
+
+📝 Planning
+
+      │
+      ▼
+
+🎨 UI / UX Design
+
+      │
+      ▼
+
+💻 Development
+
+      │
+      ▼
+
+🧪 Testing
+
+      │
+      ▼
+
+🚀 Deployment
+
+      │
+      ▼
+
+🔄 Continuous Improvement
+
+
+---
+
+# 📚 Currently Exploring
+
+Learning:
+  - MERN Stack
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Computing
+  - Data Structures & Algorithms
+  - System Design
+
+Interested In:
+  - Open Source
+  - Full Stack Development
+  - IoT Solutions
+  - DevOps
+
+---
+
+# 🚀 Developer Mindset
+
+while(success != true)
+{
+    Learn();
+    Build();
+    Debug();
+    Improve();
+    Repeat();
+}
+
+
+---
